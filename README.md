@@ -9,6 +9,11 @@ Dataset has divided into three segments:
 ● Validation set - 9.4% - 11005 audio files.
 ![Screenshot 2024-02-17 113237](https://github.com/PVHarika/Keyword-Spotting-/assets/147228955/45643d80-69d1-45b2-891d-56b9404d939d)
 # Data Pre-processing 
-We observed that most of the files have a shape of 16000, it means16000 samples for 1 sec. But few have less number of samples andfew have more than 16000.
+We observed that most of the files have a shape of 16000, it means 16000 samples for 1 sec. 
+But few have less number of samples andfew have more than 16000.
 ![Screenshot 2024-02-17 113937](https://github.com/PVHarika/Keyword-Spotting-/assets/147228955/1249e2f3-0921-4fc2-8d25-a5b81a0afdd8)
-To normalize the data, the files with less number of samples, we willdo padding for that, and for more number of samples, we will do trimming for that.
+
+To normalize the data, the files with less number of samples, we will do padding for that, and for more number of samples,
+we will do trimming for that.
+
+![Screenshot 2024-02-17 114135](https://github.com/PVHarika/Keyword-Spotting-/assets/147228955/b8096c40-7d25-4440-9236-326dd8815632)
