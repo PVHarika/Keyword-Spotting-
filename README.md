@@ -34,3 +34,6 @@ we will do trimming for that.
 To complete the project, we have concluded it with a working UI built using Python and Flask.
 This UI takes input as a .wav audio file, and then when we enter the Transcribe button, it gives the output [predicted class].
 
+![image](https://github.com/PVHarika/Keyword-Spotting-/assets/147228955/ede79741-f8e1-4408-a19c-d363cc83f16c)
+
+![image](https://github.com/PVHarika/Keyword-Spotting-/assets/147228955/533fa88e-1ba2-47ce-8745-42259907005d)
