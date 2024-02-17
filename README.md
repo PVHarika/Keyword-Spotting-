@@ -18,3 +18,7 @@ To normalize the data, the files with less number of samples, we will do padding
 we will do trimming for that.
 
 ![Screenshot 2024-02-17 114135](https://github.com/PVHarika/Keyword-Spotting-/assets/147228955/b8096c40-7d25-4440-9236-326dd8815632)
+
+# Feature extraction 
+● We extracted MFCC (Mel frequency Cepstral Coefficients) features.
+● (MFCC) are used for Keyword Spotting (KWS) because they mimic the way humans perceive sound, reduce dimensionality, are invariant to scale and pitch changes, capture temporal dynamics, and provide robustness to noise. Their proven effectiveness in speech tasks and compatibility with deep learning models make them a reliable choice for representing speech signals in KWS applications
