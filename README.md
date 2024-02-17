@@ -22,3 +22,8 @@ we will do trimming for that.
 # Feature extraction 
 ● We extracted MFCC (Mel frequency Cepstral Coefficients) features.
 ● (MFCC) are used for Keyword Spotting (KWS) because they mimic the way humans perceive sound, reduce dimensionality, are invariant to scale and pitch changes, capture temporal dynamics, and provide robustness to noise. Their proven effectiveness in speech tasks and compatibility with deep learning models make them a reliable choice for representing speech signals in KWS applications
+
+![Screenshot 2024-02-17 114641](https://github.com/PVHarika/Keyword-Spotting-/assets/147228955/7e31f857-d57b-454c-a770-6bec53db55d7)
+
+# MODELS:
+**CNN** - Convolutional Neural Network : By processing 1-Dimensional representations of audio such as MFCC or Spectrogram, CNN identifies temporal features that are important for accurate predictions. The layers like pooling, Normalization, Drop-out enhances the efficiency, with output layers characterized by softmax activation function to assign probabilities to different output classes. By using loss function, we will backtrack and increase the efficiency.
