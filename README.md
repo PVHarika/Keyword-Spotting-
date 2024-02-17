@@ -1,2 +1,9 @@
 # Keyword Spotting
-In this project we use the Speech Commands dataset, which contains short (one-second long) audio clips of English commands, stored as audio files in the WAV format. More in detail, the version 0.02 of the dataset contains 105.829 utterances of 35 short words, by thousands of different people. It was released on April 11th 2018 under Creative Commons BY 4.0 license and collected using crowdsourcing, through AIY by Google. Some of these words are "yes", "no", "up", "down", "left", "right", "on", "off", "stop" and "go".
+In this project we have used google speech command version 2 
+It contains 35 different word recordings of common commands (.wav format). 
+The commands are: yes, no, up,down, left, right, on, off, stop, go, zero, one, two, three, four,five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, backward, forward, follow, learn, visual.
+# Distribution of Audio files
+Dataset has divided into three segments:
+● Training set - 80.2% - 84843 audio files.
+● Testing set - 10.4% - 9981 audio files.
+● Validation set - 9.4% - 11005 audio files.
