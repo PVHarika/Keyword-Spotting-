@@ -27,3 +27,10 @@ we will do trimming for that.
 
 # MODELS:
 **CNN** - Convolutional Neural Network : By processing 1-Dimensional representations of audio such as MFCC or Spectrogram, CNN identifies temporal features that are important for accurate predictions. The layers like pooling, Normalization, Drop-out enhances the efficiency, with output layers characterized by softmax activation function to assign probabilities to different output classes. By using loss function, we will backtrack and increase the efficiency.
+
+![Screenshot 2024-02-17 115123](https://github.com/PVHarika/Keyword-Spotting-/assets/147228955/4bc3dda4-a5aa-4439-91f6-c76250387f5b)
+
+# WEB APPLICATION 
+To complete the project, we have concluded it with a working UI built using Python and Flask.
+This UI takes input as a .wav audio file, and then when we enter the Transcribe button, it gives the output [predicted class].
+
